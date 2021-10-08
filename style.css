@@ -1,0 +1,47 @@
+h1
+{
+    color: white;
+    font-family: Georgia;
+}
+h2{
+    color:white;
+    font-family: Georgia;
+}
+        
+        body{
+            background-color: black;
+            width: 100%;
+            color: white ;
+            font-family: Arial;
+        }
+
+        
+#tT{
+float: left;
+width: 100%;
+padding: 5px;
+}
+
+#parrotPic{
+    padding-left: 37%;
+}
+#video
+{
+   float: left;
+    padding-left: 100px;
+
+}
+#disc{
+    padding-left: 25px;
+    float: left;
+}
+#DS
+{
+    float:right;
+    padding-right: 25px ;
+}
+   
+
+
+    
+ 
